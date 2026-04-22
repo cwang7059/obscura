@@ -1,3 +1,13 @@
 .cargo-home/
 .tools/
 target/
+node_modules/
+profiles/*
+!profiles/.gitkeep
+configs/acc_*.json
+!configs/acc_001.json
+!configs/acc_002.json
+ObscuraProfileManager/bin/
+ObscuraProfileManager/obj/
+ObscuraProfileManager/.vs/
+ObscuraProfileManager/*.user

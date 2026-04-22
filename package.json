@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "profile:open": "node scripts/open-profile.js configs/acc_001.json"
+  },
+  "dependencies": {
+    "playwright-core": "^1.59.1",
+    "puppeteer-core": "^19.11.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "acc_002",
+  "browser": "chrome",
+  "userDataDir": "../profiles/acc_002",
+  "startUrl": "https://accounts.google.com",
+  "headless": false,
+  "proxy": "",
+  "args": [
+    "--start-maximized"
+  ]
+}
